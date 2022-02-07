@@ -1,0 +1,5 @@
+rank 5 student : c, total score : 9
+rank 4 student : e, total score : 9
+rank 3 student : d, total score : 8
+rank 2 student : a, total score : 4
+rank 1 student : 1, total score : 3
